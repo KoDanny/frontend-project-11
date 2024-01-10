@@ -14,7 +14,9 @@
   "author": "KoDanny",
   "license": "ISC",
   "devDependencies": {
+    "-": "^0.0.1",
     "@webpack-cli/generators": "^3.0.7",
+    "cli": "^1.0.1",
     "css-loader": "^6.9.0",
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
