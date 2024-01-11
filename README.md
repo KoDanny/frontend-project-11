@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
+[![Maintainability](https://api.codeclimate.com/v1/badges/fa51e55b9fd83b6e02b1/maintainability)](https://codeclimate.com/github/KoDanny/frontend-project-11/maintainability)
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+https://frontend-project11.netlify.app/
